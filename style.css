@@ -1,0 +1,24 @@
+*{
+    font-family: "Montserrat", serif;
+ }
+
+ #heading{
+    color: darkgreen;
+    background-color: rgb(145, 219, 33);
+    
+ }
+
+ #header{
+    color: green;
+ }
+ #email{
+    color: green;
+    font-weight: bold;
+ }
+ #viewdata{
+    color: green;background-color: greenyellow; font-weight: bold;    
+    font-size: small;
+}
+ .background{
+    background-color: rgb(172, 235, 203); 
+ }
